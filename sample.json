@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Fix login bug",
+    "due_date": "2025-11-30",
+    "estimated_hours": 3,
+    "importance": 8,
+    "dependencies": []
+  },
+  {
+    "id": 2,
+    "title": "Write documentation",
+    "due_date": "2025-12-05",
+    "estimated_hours": 1,
+    "importance": 6,
+    "dependencies": [1]
+  },
+  {
+    "id": 3,
+    "title": "Hotfix payment issue",
+    "due_date": "2025-11-27",
+    "estimated_hours": 2,
+    "importance": 9,
+    "dependencies": []
+  }
+]
