@@ -39,7 +39,7 @@ task-analyzer/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/task-analyzer.git
+git clone https://github.com/krishna111809/task-analyzer.git
 cd task-analyzer
 ```
 
